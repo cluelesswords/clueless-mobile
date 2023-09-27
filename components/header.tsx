@@ -15,10 +15,12 @@ const styles = StyleSheet.create({
     flexDirection: "row",
     paddingVertical: 25,
     paddingHorizontal: 10,
+    justifyContent: "center",
   },
   text: {
     fontSize: 25,
     fontWeight: "bold",
     textTransform: "uppercase",
+    textAlign: "center",
   },
 });
